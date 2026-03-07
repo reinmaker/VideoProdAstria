@@ -1,0 +1,1 @@
+In the Saks workspace, you can see all the brand's saved packs — lookbooks, seasonal social drops, and campaign setups, each with its own prompt, references, and settings already configured. Open any pack and everything is ready. Hit Generate and new images are produced instantly, consistent with that pack's style every time.

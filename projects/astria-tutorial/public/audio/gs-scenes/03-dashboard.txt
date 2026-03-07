@@ -1,0 +1,1 @@
+This is the Sacks workspace — results fill the grid as they're created. Top left, the workspace switcher moves you between brands. At the bottom, the prompt bar is where every generation starts. And here in the nav — the AI assistant. Click it and a sidebar opens. It covers everything: creative ideas, prompt suggestions, all the way through to generating your images.

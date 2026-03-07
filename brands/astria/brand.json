@@ -1,0 +1,49 @@
+{
+  "name": "Astria",
+  "description": "Tailor-made AI — dark, editorial aesthetic for generative image creation",
+  "version": "1.0.0",
+  "website": "https://www.astria.ai",
+
+  "colors": {
+    "primary": "#5251f6",
+    "primaryLight": "#a9a8fb",
+    "primaryDark": "#313194",
+    "textDark": "#F8FAFC",
+    "textMedium": "#8B90A0",
+    "textLight": "#4A5068",
+    "bgLight": "#f8f9fa",
+    "bgDark": "#0d0d1a",
+    "bgAlt": "#1a1a2e",
+    "bgOverlay": "rgba(13, 13, 26, 0.92)",
+    "divider": "#2B333F",
+    "shadow": "rgba(0, 0, 0, 0.45)"
+  },
+
+  "fonts": {
+    "primary": "Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif",
+    "mono": "ui-monospace, SFMono-Regular, \"SF Mono\", Menlo, monospace"
+  },
+
+  "spacing": {
+    "xs": 8,
+    "sm": 16,
+    "md": 24,
+    "lg": 48,
+    "xl": 80,
+    "xxl": 120
+  },
+
+  "borderRadius": {
+    "sm": 6,
+    "md": 12,
+    "lg": 20
+  },
+
+  "typography": {
+    "h1": { "size": 88, "weight": 700 },
+    "h2": { "size": 72, "weight": 700 },
+    "h3": { "size": 48, "weight": 600 },
+    "body": { "size": 44, "weight": 400 },
+    "label": { "size": 34, "weight": 500, "letterSpacing": 3 }
+  }
+}

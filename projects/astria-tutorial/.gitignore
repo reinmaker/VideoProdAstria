@@ -1,0 +1,21 @@
+# Reinstallable
+node_modules/
+
+# Rendered output (re-run: npm run render:gs)
+out/
+
+# Temp recordings
+*.webm
+
+# Combined voiceover (re-run: python3 build-gs-audio.py)
+public/audio/gs-voiceover.mp3
+public/audio/voiceover.mp3
+
+# Old per-scene audio dir from product-demo (not used in getting-started)
+public/audio/scenes/
+
+# Old product-demo MP4s not used in getting-started video
+public/demos/astria-lookbook-demo.mp4
+public/demos/demo-fullscreen.mp4
+public/demos/demo-references.mp4
+public/demos/demo-settings-generate.mp4

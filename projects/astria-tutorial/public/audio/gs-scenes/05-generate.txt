@@ -1,0 +1,1 @@
+Click the prompt bar. Type the at symbol to open the reference picker — search for a product and select it. A chip appears in the editor, linking that exact item. Add your scene description, then hit Generate. Astria combines your references with the prompt and produces the image.

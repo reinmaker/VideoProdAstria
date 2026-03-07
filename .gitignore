@@ -71,10 +71,14 @@ assets/voices/*.wav
 assets/voices/*.m4a
 
 # Projects directory (user's local video work - not part of toolkit)
-projects/
+projects/*
 
 # Keep directory structure
 !projects/.gitkeep
+
+# Track astria-tutorial project (source, audio scripts, demo MP4s)
+!projects/astria-tutorial
+!projects/astria-tutorial/**
 
 # Examples directory IS tracked (curated showcase projects)
 !examples/

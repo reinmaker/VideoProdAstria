@@ -1,0 +1,1 @@
+Packs are reusable brand setups. A pack bundles a prompt, references, and generation settings into one saved template — for a lookbook shoot, a social drop, or a full campaign. Your team can share packs, build a library of recurring styles, and produce consistent content at scale.
